@@ -1,6 +1,8 @@
 {
   "trivia_categories": [
-    {id: 9, name: "Diabetes"},
+    {
+      "id": 9, "name": "Diabetes"
+    },
   ],
   "Questions": [
     {
