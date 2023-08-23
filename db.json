@@ -31,7 +31,6 @@
       "question": "You are at home and feel shaky, a little sweaty and hungry. You do not have grape sugar on hand. What would you do?",
       "correct_answer": "eat a cheese sandwich",
       "incorrect_answers": [
-        "wait a while",
         "go for a walk",
         "eat a chocolate bar",
         "glass of regular soda"
