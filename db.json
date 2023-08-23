@@ -280,46 +280,6 @@
         "incorrect_answers": [
           "True"
         ]
-      },
-      {
-        "category": "Diabetes",
-        "type": "boolean",
-        "difficulty": "easy",
-        "question": "When you are sick with the flu you should test for glucose more often.",
-        "correct_answer": "True",
-        "incorrect_answers": [
-          "False"
-        ]
-      },
-      {
-        "category": "Diabetes",
-        "type": "boolean",
-        "difficulty": "easy",
-        "question": "High blood glucose levels may be caused by too much insulin.",
-        "correct_answer": "False",
-        "incorrect_answers": [
-          "True"
-        ]
-      },
-      {
-        "category": "Diabetes",
-        "type": "boolean",
-        "difficulty": "easy",
-        "question": "If you take your morning insulin but skip breakfast your blood glucose level will usually decrease.",
-        "correct_answer": "True",
-        "incorrect_answers": [
-          "False"
-        ]
-      },
-      {
-        "category": "Diabetes",
-        "type": "boolean",
-        "difficulty": "easy",
-        "question": "Having regular check-ups with your doctor can help spot the early signs of diabetes complications.",
-        "correct_answer": "True",
-        "incorrect_answers": [
-          "False"
-        ]
       }
   ]
 }
