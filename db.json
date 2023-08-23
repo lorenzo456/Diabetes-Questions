@@ -1,14 +1,16 @@
 {
-  "trivia_categories": [
-    {
-      "id": 9,
-      "name": "Diabetes"
-    }
-  ],
+  "trivia_categories": {
+    "trivia_categories": [
+        {
+            "id": 9,
+            "name": "Diabetes"
+        }
+    ]
+  },
   "api_count": 
     {
       "category_id": 9,
-      "category_question_count": 
+      "category_question_countt": 
         {
           "total_easy_question_count": 2,
           "total_hard_question_count": 0,
