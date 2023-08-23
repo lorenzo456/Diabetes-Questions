@@ -5,7 +5,7 @@
       "name": "Diabetes"
     }
   ],
-  "api_count": [
+  "api_count": 
     {
       "category_id": 9
     },
@@ -25,7 +25,7 @@
         }
       ]
     }
-  ],
+  ,
   "Diabetes": [
     {
       "category": "Diabetes",
