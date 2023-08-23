@@ -1,19 +1,1048 @@
 {
   "Questions": [
     {
-      "id": 1,
-      "name": "David",
-      "age": 30
+      "category": "Diabetes",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which blood sugar reading is good?",
+      "correct_answer": "between 4.5 and 8 mmol/L",
+      "incorrect_answers": [
+        "lower than 5 mmol/L",
+        "between 5 and 10 mmol/L",
+        "between 3.5 and 15 mmol/L"
+      ]
     },
     {
-      "name": "John",
-      "id": 2,
-      "age": 40
+      "category": "Diabetes",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following products will cause your blood sugar to rise the most?",
+      "correct_answer": "one currant bun",
+      "incorrect_answers": [
+        "crispbread with jam",
+        "soft bread with cheese",
+        "one slice of white bread with cheese"
+      ]
     },
     {
-      "id": 3,
-      "name": "Lorenzo",
-      "age": 30
+      "category": "Diabetes",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "You are at home and feel shaky, a little sweaty and hungry. You do not have grape sugar on hand. What would you do?",
+      "correct_answer": "eat a cheese sandwich",
+      "incorrect_answers": [
+        "wait a while",
+        "go for a walk",
+        "eat a chocolate bar",
+        "glass of regular soda"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "You are going to cycle for an hour. What do you expect to happen to your blood sugar?",
+      "correct_answer": "blood sugar will drop",
+      "incorrect_answers": [
+        "blood sugar will rise",
+        "blood sugar stays the same"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which breakfast contains the most carbohydrates (sugars)?",
+      "correct_answer": "1 bowl of yogurt with 3 scoops of granola",
+      "incorrect_answers": [
+        "1 slice of bread with sweet toppings",
+        "1 slice of bread with savory fillings",
+        "1 cracker with sweet fillings"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following products will require you to inject the most insulin?",
+      "correct_answer": "one currant bun",
+      "incorrect_answers": [
+        "crispbread with jam",
+        "soft bread roll with cheese",
+        "I inject the same for everything"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Your blood sugar is 3 mmol/L, what would you do?",
+      "correct_answer": "2 dextrose, and possibly a snack",
+      "incorrect_answers": [
+        "eat a chocolate bar",
+        "glass of regular soda",
+        "injecting extra insulin"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "You will ride your bike for an hour after lunch. What will you do?",
+      "correct_answer": "I inject less insulin",
+      "incorrect_answers": [
+        "I do not use meal insulin",
+        "I inject more insulin at lunch"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "It is warm weather and you are not hungry, and eat only a salad as a meal consisting of lettuce, chicken with oil/vinegar dressing. What do you do with the meal insulin?",
+      "correct_answer": "I do not inject any meal insulin",
+      "incorrect_answers": [
+        "I inject my regular dose of meal insulin",
+        "I do not inject any meal insulin"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following statements applies: A) 1 serving of vanilla custard contains as many sugars as 1 serving of yogurt; B) 3 medium potatoes contains as many sugars as 3 slices of bread.",
+      "correct_answer": "A) and B) are not true",
+      "incorrect_answers": [
+        "A) and B) are true",
+        "A) is true",
+        "B) is true"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "The diabetes diet is a healthy diet for most people.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Glycosylated haemoglobin (HbA1c) is a test that measures your average blood glucose level in the past week.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "A pound of chicken has more carbohydrate in it than a pound of potatoes.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Orange juice has more fat in it than low fat milk.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Urine testing and blood testing are both equally as good for testing the level of blood glucose.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Unsweetened fruit juice raises blood glucose levels.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "A can of diet soft drink can be used for treating low blood glucose levels.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Using olive oil in cooking can help prevent raised cholesterol in the blood.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Exercising regularly can help reduce high blood pressure.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "For a person in good control exercising has no effect on blood sugar levels.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Wearing shoes a size bigger than usual helps prevent foot ulcers.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Eating foods lower in fat decreases your risk for heart disease.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Numbness and tingling may be symptoms of nerve disease.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Lung problems are usually associated with having diabetes.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "When you are sick with the flu you should test for glucose more often.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "High blood glucose levels may be caused by too much insulin.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "If you take your morning insulin but skip breakfast your blood glucose level will usually decrease.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Having regular check-ups with your doctor can help spot the early signs of diabetes complications.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Attending your diabetes appointments stops you getting diabetes complications.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "If you ate the entire container of pasta, how many calories would you be eating?",
+      "correct_answer": "500 calories",
+      "incorrect_answers": [
+        "300 calories",
+        "700 calories",
+        "900 calories"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "1 gram of carbohydrate elevates your blood sugar level 3 points. How much will 20 grams of carbohydrate elevate your blood sugar?",
+      "correct_answer": "60 points",
+      "incorrect_answers": [
+        "20 points",
+        "40 points",
+        "80 points"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "1/2 cup of potatoes counts as 1 carbohydrate choice. How many choices does 2 cups of potatoes count as?",
+      "correct_answer": "4 choices",
+      "incorrect_answers": [
+        "2 choices",
+        "6 choices",
+        "8 choices"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "When you lift weights, you need to eat 20 grams of carbohydrate within 15 minutes after you finish. If you finish weight training at 2:00 PM, by when should you eat the carbohydrates?",
+      "correct_answer": "2:00 - 2:15 p.m.",
+      "incorrect_answers": [
+        "1:45 - 2:00 p.m.",
+        "2:15 - 2:30 p.m."
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Each cracker has 2 grams of carbohydrate. How many crackers should you eat to get 20 grams?",
+      "correct_answer": "10 crackers",
+      "incorrect_answers": [
+        "2 crackers",
+        "5 crackers",
+        "8 crackers"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Before working in the yard you are to decrease your meal insulin by half, if the meal and yard work are two hours or less apart. You usually take 8 units for lunch. If you eat lunch at 12:30 and are going to cut the grass at 2:00 PM, how much insulin should you take?",
+      "correct_answer": "4 units",
+      "incorrect_answers": [
+        "1 unit",
+        "2 units",
+        "6 units"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "You have to eat 6 grams of carbohydrate for each 30 minutes you plan to walk. You are planning to walk for one hour. You have a bag with 12 crackers. Each cracker contains 10 grams of carbohydrate. How many crackers do you need to eat before your walk?",
+      "correct_answer": "1 or 2 crackers",
+      "incorrect_answers": [
+        "half a cracker",
+        "2 or 3 crackers"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The hemoglobin A1c (HbA1c) test measures average blood sugar levels for the 2-3 month period before blood is drawn. A HbA1c of 6% is equal to an average blood sugar of about 120. If your average blood sugar in the past 3 months is 240, approximately what is your HbA1c?",
+      "correct_answer": "10%",
+      "incorrect_answers": [
+        "8%",
+        "12%",
+        "14%"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "You test your blood sugar 4 times a day. How many strips do you need to take with you on a 2-week vacation?",
+      "correct_answer": "56 strips",
+      "incorrect_answers": [
+        "40 strips",
+        "48 strips",
+        "60 strips"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "You test your blood sugar 3 times a day. You purchase a prescription of 50 strips on March 5th. Of the dates below, by when will you need to buy new strips?",
+      "correct_answer": "March 21st",
+      "incorrect_answers": [
+        "April 21st",
+        "May 21st",
+        "June 21st"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "You have a prescription for repaglinide 1 mg pills. The label says, “Take 2 mg of repaglinide with breakfast, 1 mg with lunch and 3 mg with supper.” How many pills should you take with supper?",
+      "correct_answer": "3 pills",
+      "incorrect_answers": [
+        "1 pill",
+        "6 pills"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "You have a prescription for metformin extended release 500 mg tablets. The label says, 'Take 1 tablet with supper each night for the first week. Then, increase by 1 tablet each week for a total of 4 tablets daily with supper.'. How many tablets should you take with supper each night the second week?",
+      "correct_answer": "2 tablets",
+      "incorrect_answers": [
+        "1 tablet",
+        "It depends on the day of the week",
+        "4 tablets"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "You have only a few pills left in your pill bottle. Your doctor's office needs 3 days to process a new prescription and your pharmacy needs 2 days to fill it. You take 2 pills a day. What is the least amount of pills that should be in your prescription bottle when you call for a renewal",
+      "correct_answer": "10 pills",
+      "incorrect_answers": [
+        "6 pills",
+        "8 pills",
+        "12 pills"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "For your diabetes, you take 1 pill two times per day. When you get your refill, the bottle has 60 pills. How many days supply do you have?",
+      "correct_answer": "30 days",
+      "incorrect_answers": [
+        "15 days",
+        "45 days",
+        "60 days"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "You fill your prescription on July 15th. You get a 90 day supply. You must mail in a renewal 10 days before your supply runs out. When do you need to mail in a renewal?",
+      "correct_answer": "between 3rd and 6th of October",
+      "incorrect_answers": [
+        "between 3rd and 6th of September",
+        "between 6th and 10th of September",
+        "between 6th and 10th of October"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "You take 10 units of insulin lispro and 16 units of insulin glargine before breakfast. What is the total number of units of insulin you take before breakfast?",
+      "correct_answer": "26 total units",
+      "incorrect_answers": [
+        "10 total units",
+        "16 total units",
+        "20 total units"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The doctor tells you to take 2 units of insulin for every 1 serving of carbohydrate you eat. How many units of insulin do you take for 6 servings of carbohydrate?",
+      "correct_answer": "12 units",
+      "incorrect_answers": [
+        "6 units",
+        "8 units",
+        "10 units"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "1 unit of insulin lowered your blood sugar by 30 points. How much does 4 units of insulin lower your blood sugar?",
+      "correct_answer": "120 points",
+      "incorrect_answers": [
+        "60 points",
+        "180 points",
+        "240 points"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "You are given the following instructions: “Take 1 unit of insulin for every 7 grams of carbohydrate you eat.” How much insulin do you take when you eat 49 grams at breakfast?",
+      "correct_answer": "7 units",
+      "incorrect_answers": [
+        "5 units",
+        "9 units",
+        "14 units"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "You are given the following instructions: “Take 1 unit of insulin for every 7 grams of carbohydrate you eat.” How much insulin do you take when you eat 60 grams at lunch?",
+      "correct_answer": "8 units",
+      "incorrect_answers": [
+        "6 units",
+        "10 units",
+        "13 units"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "You are given the following instructions: “Take 1 unit of insulin for every 7 grams of carbohydrate you eat.” How much insulin do you take when you eat 98 grams at supper?",
+      "correct_answer": "14 units",
+      "incorrect_answers": [
+        "9 units",
+        "11 units",
+        "16 units"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "You have been told to cut your insulin in half for a colon test. Your usual dose is 41 units. What amount should you take for the colon test?",
+      "correct_answer": "20 or 20.5 units",
+      "incorrect_answers": [
+        "15 or 15.5 units",
+        "18 or 18.5 units",
+        "23 or 23.5 units"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "You are told that if: \n your blood sugar is 130-180 you should take 0 units of insulin; \n your blood sugar is 181-230 you should take 1 unit of insulin; \n your blood sugar is 231-280 you should take 2 units of insulin; \n your blood sugar is 281-330 you should take 3 units of insulin; \n your blood sugar is 331-380 you should take 4 units of insulin. \n How much insulin would you take for a blood sugar of 191?",
+      "correct_answer": "1 unit",
+      "incorrect_answers": [
+        "0 units",
+        "2 units",
+        "3 units"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "You are told that if: \n your blood sugar is 130-180 you should take 0 units of insulin; \n your blood sugar is 181-230 you should take 1 unit of insulin; \n your blood sugar is 231-280 you should take 2 units of insulin; \n your blood sugar is 281-330 you should take 3 units of insulin; \n your blood sugar is 331-380 you should take 4 units of insulin. \n How much insulin would you take for a blood sugar of 134?",
+      "correct_answer": "0 units",
+      "incorrect_answers": [
+        "1 unit",
+        "2 units",
+        "3 units"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "You are told that if: \n your blood sugar is 130-180 you should take 0 units of insulin; \n your blood sugar is 181-230 you should take 1 unit of insulin; \n your blood sugar is 231-280 you should take 2 units of insulin; \n your blood sugar is 281-330 you should take 3 units of insulin; \n your blood sugar is 331-380 you should take 4 units of insulin. \n How much insulin would you take for a blood sugar of 295?",
+      "correct_answer": "3 units",
+      "incorrect_answers": [
+        "1 unit",
+        "2 units",
+        "4 units"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "You check your blood sugar just before eating. You take 1 unit of insulin for every 10 grams of carbohydrates you eat. You are also told that if: \n Your blood glucose is greater tha 120 points at breakfast, lunch or supper, you should add 2 units of insulin; \n Your blood glucose is greater than 150 points at breakfast, lunch or supper you should add 4 units of insulin; \n Your blood glucose is greater than 180 points at breakfast, lunch or supper you should add 6 units of insulin. \n Your blood sugar is 284 mg/dL and you ate 40 grams of carbohydrate at breakfast. How much total insulin do you need to take?",
+      "correct_answer": "10 units",
+      "incorrect_answers": [
+        "8 unit",
+        "9 units",
+        "11 units"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "You check your blood sugar just before eating. You take 1 unit of insulin for every 10 grams of carbohydrates you eat. You are also told that if: \n Your blood glucose is greater tha 120 points at breakfast, lunch or supper, you should add 2 units of insulin; \n Your blood glucose is greater than 150 points at breakfast, lunch or supper you should add 4 units of insulin; \n Your blood glucose is greater than 180 points at breakfast, lunch or supper you should add 6 units of insulin. \n Your blood sugar is 140 mg/dL and you ate 50 grams of carbohydrate at lunch. How much total insulin do you need to take?",
+      "correct_answer": "7 units",
+      "incorrect_answers": [
+        "5 unit",
+        "6 units",
+        "8 units"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "You check your blood sugar just before eating. You take 1 unit of insulin for every 10 grams of carbohydrates you eat. You are also told that if: \n Your blood glucose is greater tha 120 points at breakfast, lunch or supper, you should add 2 units of insulin; \n Your blood glucose is greater than 150 points at breakfast, lunch or supper you should add 4 units of insulin; \n Your blood glucose is greater than 180 points at breakfast, lunch or supper you should add 6 units of insulin. \n Your blood sugar is 140 mg/dL and you ate 50 grams of carbohydrate at lunch. How much total insulin do you need to take?",
+      "correct_answer": "7 units",
+      "incorrect_answers": [
+        "5 unit",
+        "6 units",
+        "8 units"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "You check your blood sugar just before eating. You take 1 unit of insulin for every 10 grams of carbohydrates you eat. You are also told that if: \n Your blood glucose is greater tha 120 points at breakfast, lunch or supper, you should add 2 units of insulin; \n Your blood glucose is greater than 150 points at breakfast, lunch or supper you should add 4 units of insulin; \n Your blood glucose is greater than 180 points at breakfast, lunch or supper you should add 6 units of insulin. \n Your blood sugar is 380 mg/dL and you ate 60 grams of carbohydrate at supper. How much total insulin do you need to take?",
+      "correct_answer": "12 units",
+      "incorrect_answers": [
+        "11 unit",
+        "13 units",
+        "14 units"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "You have been asked to start taking 32 units of NPH insulin tonight at bedtime. This insulin will work during the night and will lower your blood sugar first thing in the morning. You were given the following instructions: \n -Your goal is to have the morning (fasting) blood sugar below 120. \n - Check your blood sugar every morning before breakfast. \n - Start with 32 units of NPH tonight. Increase the dose by 2 units every other day until  your blood sugar is at or below 120. \n - Your fasting blood sugar must be above 120 for 2 morning in a row in order for you to increase the insulin dose by 2 units. \n - Once your blood sugar is staying below 120, stop increasing the nighttime insulin. \n You being with 32 units of NPH inslin last night. On the Morning of day 1, your blood sugar is 164. How much insulin will you take that night?",
+      "correct_answer": "32 units",
+      "incorrect_answers": [
+        "34 unit",
+        "30 units",
+        "28 units"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "You have been asked to start taking 32 units of NPH insulin tonight at bedtime. This insulin will work during the night and will lower your blood sugar first thing in the morning. You were given the following instructions: \n -Your goal is to have the morning (fasting) blood sugar below 120. \n - Check your blood sugar every morning before breakfast. \n - Start with 32 units of NPH tonight. Increase the dose by 2 units every other day until  your blood sugar is at or below 120. \n - Your fasting blood sugar must be above 120 for 2 morning in a row in order for you to increase the insulin dose by 2 units. \n - Once your blood sugar is staying below 120, stop increasing the nighttime insulin. \n You being with 32 units of NPH inslin last night. On the Morning of day 1, your blood sugar is 164. On the Morning of day 2, your blood sugar is 132. How much insulin will you take that night?",
+      "correct_answer": "34 units",
+      "incorrect_answers": [
+        "32 unit",
+        "30 units",
+        "36 units"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "You have been asked to start taking 32 units of NPH insulin tonight at bedtime. This insulin will work during the night and will lower your blood sugar first thing in the morning. You were given the following instructions: \n -Your goal is to have the morning (fasting) blood sugar below 120. \n - Check your blood sugar every morning before breakfast. \n - Start with 32 units of NPH tonight. Increase the dose by 2 units every other day until  your blood sugar is at or below 120. \n - Your fasting blood sugar must be above 120 for 2 morning in a row in order for you to increase the insulin dose by 2 units. \n - Once your blood sugar is staying below 120, stop increasing the nighttime insulin. \n You being with 32 units of NPH inslin last night. On the Morning of day 2, your blood sugar is 132. On the Morning of day 3, your blood sugar is 102. How much insulin will you take that night?",
+      "correct_answer": "34 units",
+      "incorrect_answers": [
+        "32 unit",
+        "30 units",
+        "36 units"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "You have been asked to start taking 32 units of NPH insulin tonight at bedtime. This insulin will work during the night and will lower your blood sugar first thing in the morning. You were given the following instructions: \n -Your goal is to have the morning (fasting) blood sugar below 120. \n - Check your blood sugar every morning before breakfast. \n - Start with 32 units of NPH tonight. Increase the dose by 2 units every other day until  your blood sugar is at or below 120. \n - Your fasting blood sugar must be above 120 for 2 morning in a row in order for you to increase the insulin dose by 2 units. \n - Once your blood sugar is staying below 120, stop increasing the nighttime insulin. \n You being with 32 units of NPH inslin last night. On the Morning of day 3, your blood sugar is 102. On the Morning of day 4, your blood sugar is 140. How much insulin will you take that night?",
+      "correct_answer": "34 units",
+      "incorrect_answers": [
+        "32 unit",
+        "30 units",
+        "36 units"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "You have been asked to start taking 32 units of NPH insulin tonight at bedtime. This insulin will work during the night and will lower your blood sugar first thing in the morning. You were given the following instructions: \n -Your goal is to have the morning (fasting) blood sugar below 120. \n - Check your blood sugar every morning before breakfast. \n - Start with 32 units of NPH tonight. Increase the dose by 2 units every other day until  your blood sugar is at or below 120. \n - Your fasting blood sugar must be above 120 for 2 morning in a row in order for you to increase the insulin dose by 2 units. \n - Once your blood sugar is staying below 120, stop increasing the nighttime insulin. \n You being with 32 units of NPH inslin last night. On the Morning of day 4, your blood sugar is 140. On the Morning of day 5, your blood sugar is 132. How much insulin will you take that night?",
+      "correct_answer": "36 units",
+      "incorrect_answers": [
+        "32 unit",
+        "30 units",
+        "34 units"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "After seeing the Doctor, you are given the following instruction to lower a high blood sugar level before a meal: \n 'Starting with a blood sugar of 120, take 1 unit of insulin lispro for each 50 points of blood sugar'. \n How much insulin should you take for a blood sugar of 375?",
+      "correct_answer": "between 5 and 6 units",
+      "incorrect_answers": [
+        "between 4 and 5 units",
+        "between 6 and 7 units",
+        "between 7 and 8 units"
+      ]
+    }
+  ],
+
+  
+  "QuestionsTest" : [
+    {
+      "category": "Diabetes",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which blood sugar reading is good?",
+      "correct_answer": "between 4.5 and 8 mmol/L",
+      "incorrect_answers": [
+        "lower than 5 mmol/L",
+        "between 5 and 10 mmol/L",
+        "between 3.5 and 15 mmol/L",
+        "at values where I have no symptoms"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following products will cause your blood sugar to rise the most?",
+      "correct_answer": "one currant bun",
+      "incorrect_answers": [
+        "crispbread with jam",
+        "soft bread with cheese",
+        "one slice of brown bread with cheese",
+        "one slice of white bread with cheese"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "You are at home and feel shaky, a little sweaty and hungry. You do not have grape sugar on hand. What would you do?",
+      "correct_answer": "eat a cheese sandwich",
+      "incorrect_answers": [
+        "wait a while",
+        "go for a walk",
+        "read a book",
+        "eat a chocolate bar",
+        "glass of regular soda"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "You are going to cycle for an hour. What do you expect to happen to your blood sugar?",
+      "correct_answer": "blood sugar will drop",
+      "incorrect_answers": [
+        "blood sugar will rise",
+        "blood sugar stays the same"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which breakfast contains the most carbohydrates (sugars)?",
+      "correct_answer": "1 bowl of yogurt with 3 scoops of granola",
+      "incorrect_answers": [
+        "1 slice of bread with sweet toppings",
+        "1 slice of bread with savory fillings",
+        "1 cracker with sweet fillings"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following products will require you to inject the most insulin?",
+      "correct_answer": "one currant bun",
+      "incorrect_answers": [
+        "crispbread with jam",
+        "soft bread roll with cheese",
+        "one slice of brown bread with cheese",
+        "one slice of white bread with cheese",
+        "I inject the same for everything"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Your blood sugar is 3 mmol/L, what would you do?",
+      "correct_answer": "2 dextrose, and possibly a snack",
+      "incorrect_answers": [
+        "wait and see",
+        "take a walk",
+        "eat a chocolate bar",
+        "glass of regular soda",
+        "injecting extra insulin"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "You will ride your bike for an hour after lunch. What will you do?",
+      "correct_answer": "I inject less insulin",
+      "incorrect_answers": [
+        "I do not use meal insulin",
+        "I inject more insulin at lunch"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "It is warm weather and you are not hungry, and eat only a salad as a meal consisting of lettuce, chicken with oil/vinegar dressing. What do you do with the meal insulin?",
+      "correct_answer": "I do not inject any meal insulin",
+      "incorrect_answers": [
+        "I inject my regular dose of meal insulin",
+        "I do not inject any meal insulin"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following statements applies: A) 1 serving of vanilla custard contains as many sugars as 1 serving of yogurt; B) 3 medium potatoes contains as many sugars as 3 slices of bread.",
+      "correct_answer": "A) and B) are not true",
+      "incorrect_answers": [
+        "A) and B) are true",
+        "A) is true",
+        "B) is true"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "The diabetes diet is a healthy diet for most people.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Glycosylated haemoglobin (HbA1c) is a test that measures your average blood glucose level in the past week.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "A pound of chicken has more carbohydrate in it than a pound of potatoes.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Orange juice has more fat in it than low fat milk.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Urine testing and blood testing are both equally as good for testing the level of blood glucose.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Unsweetened fruit juice raises blood glucose levels.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "A can of diet soft drink can be used for treating low blood glucose levels.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Using olive oil in cooking can help prevent raised cholesterol in the blood.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Exercising regularly can help reduce high blood pressure.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "For a person in good control exercising has no effect on blood sugar levels.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Wearing shoes a size bigger than usual helps prevent foot ulcers.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Eating foods lower in fat decreases your risk for heart disease.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Numbness and tingling may be symptoms of nerve disease.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Lung problems are usually associated with having diabetes.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "When you are sick with the flu you should test for glucose more often.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "High blood glucose levels may be caused by too much insulin.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "If you take your morning insulin but skip breakfast your blood glucose level will usually decrease.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Having regular check-ups with your doctor can help spot the early signs of diabetes complications.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Diabetes",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Attending your diabetes appointments stops you getting diabetes complications.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
     }
   ]
 }
