@@ -7,23 +7,14 @@
   ],
   "api_count": 
     {
-      "category_id": 9
-    },
-    {
-      "category_question_count": [
+      "category_id": 9,
+      "category_question_count": 
         {
-          "total_easy_question_count": 2
-        },
-        {
-          "total_hard_question_count": 0
-        },
-        {
-          "total_medium_question_count": 0
-        },
-        {
+          "total_easy_question_count": 2,
+          "total_hard_question_count": 0,
+          "total_medium_question_count": 0,
           "total_question_count": 2
         }
-      ]
     }
   ,
   "Diabetes": [
