@@ -1,7 +1,29 @@
 {
   "trivia_categories": [
     {
-      "id": 9, "name": "Diabetes"
+      "id": 9,
+      "name": "Diabetes"
+    }
+  ],
+  "api_count": [
+    {
+      "category_id": 9
+    },
+    {
+      "category_question_count": [
+        {
+          "total_easy_question_count": 2
+        },
+        {
+          "total_hard_question_count": 0
+        },
+        {
+          "total_medium_question_count": 0
+        },
+        {
+          "total_question_count": 2
+        }
+      ]
     }
   ],
   "Diabetes": [
@@ -17,7 +39,7 @@
         "between 3.5 and 15 mmol/L"
       ]
     },
-      {
+    {
       "category": "Diabetes",
       "type": "multiple",
       "difficulty": "easy",
